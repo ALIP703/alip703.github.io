@@ -133,6 +133,17 @@ h6 {
     font-size: 36px;
   }
 
+  
+  .section-title p {
+    margin: 0;
+    margin: -15px 0 15px 0;
+    font-size: 25px !important;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+  }
+
   #header h2 {
     font-size: 20px;
     line-height: 30px;
@@ -382,6 +393,7 @@ section .container {
     background: #4ceb95;
     margin: 4px 10px;
   }
+  
 }
 
 .section-title h2 {
@@ -408,7 +420,7 @@ section .container {
 .section-title p {
   margin: 0;
   margin: -15px 0 15px 0;
-  font-size: 36px;
+  font-size: 30px;
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;

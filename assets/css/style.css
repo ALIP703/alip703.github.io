@@ -374,6 +374,14 @@ section .container {
   section.section-show {
     top: 80px;
   }
+  .section-title h2::after {
+    content: "";
+    width: 50px !important;
+    height: 1px;
+    display: inline-block;
+    background: #4ceb95;
+    margin: 4px 10px;
+  }
 }
 
 .section-title h2 {
